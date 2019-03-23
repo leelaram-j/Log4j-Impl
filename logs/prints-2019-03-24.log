@@ -1,0 +1,7 @@
+00:26:04.720 [main] DEBUG com.log4j.test2.Demo1 - Iam debugging
+00:26:04.726 [main] ERROR com.log4j.test2.Demo1 - This is error
+00:26:04.726 [main] INFO  com.log4j.test2.Demo1 - this is information
+00:26:04.727 [main] FATAL com.log4j.test2.Demo1 - This is fatal
+00:58:29.640 [main] DEBUG com.log4j.test2.Demo1 - Clicking confirmation Alert
+00:58:32.664 [main] INFO  com.log4j.test2.Demo1 - Waiting 3 seconds
+00:58:32.681 [main] DEBUG com.log4j.test2.Demo1 - printing alert text Are you sure you want to give us the deed to your house?

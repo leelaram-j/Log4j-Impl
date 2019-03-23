@@ -1,0 +1,4 @@
+00:59:56.449 [main] DEBUG com.log4j.test2.Demo1 - Clicking confirmation Alert
+00:59:59.470 [main] INFO  com.log4j.test2.Demo1 - Waiting 3 seconds
+00:59:59.483 [main] DEBUG com.log4j.test2.Demo1 - printing alert text-->Are you sure you want to give us the deed to your house?
+00:59:59.490 [main] DEBUG com.log4j.test2.Demo1 - Accepting Alert
